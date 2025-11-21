@@ -1,0 +1,5 @@
+trimesh
+pyrender
+PyOpenGL
+PyOpenGL_accelerate
+numpy
