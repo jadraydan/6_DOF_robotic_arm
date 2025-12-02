@@ -1,0 +1,10 @@
+This projects flow is as follows:
+1. the main file runs the project
+2. calls the setup files 
+3 setup fetches dh data and ofsets from user input through terminal
+4. setting up the ofsets to use for displaying the joints later
+5. the core files are the logic to manage dh transforms
+6. the ui connects all layers by displaying
+7. ui also accepts user input for the fk
+8. later will setup the ik whith its relevant ui
+9. ik ui takes input as x y z and rotation
